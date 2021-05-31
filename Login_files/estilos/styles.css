@@ -20,6 +20,7 @@ html, body {
   width: var(--fit-content);
   min-height: 100vh;
   height: var(--fit-content);
+  background-image: url(../imagenes/fondo.jpg);
 }
 
 body {
