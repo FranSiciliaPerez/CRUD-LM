@@ -31,6 +31,9 @@ body{
     background-color: rgb(36, 36, 41);
     color: rgb(250, 249, 249);
 }
+.table-hover tbody tr:hover {
+  color: unset
+}
 #formulario {
     min-width: 300px;
     height: fit-content;
