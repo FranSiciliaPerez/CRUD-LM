@@ -31,10 +31,10 @@ body {
 .formulario {
   width: 80vw;
   margin: auto;
-  padding-bottom: 30px 30px;
+  padding: 1rem;
   border:rgb(145, 145, 151) 2px solid;
   border-radius: 20px;
-  background-color:rgb(74, 205, 238);*/
+  background-color:rgb(74, 205, 238);
 }
 
 .form-group {
