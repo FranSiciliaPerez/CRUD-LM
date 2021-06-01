@@ -20,14 +20,18 @@ body{
     height: 90vh;
     border-radius: 10px 50px 10px 50px;
 }
+.bg-light {
+   background-color: #f8f9fa!important;
+   border-bottom: 1px solid #46494d!important;
+}
 .table-bordered {
     border: 1px solid #dee2e6;
   }
 .table{
     background-color: rgb(36, 36, 41);
+    color: rgb(250, 249, 249);
 }
 #formulario {
-    /* position: absolute; */
     min-width: 300px;
     height: fit-content;
     max-width: 920px;
@@ -49,6 +53,8 @@ body{
     width: 100%;
     border-radius: 10px 50px 10px 50px;
   }
-  .navbar {
-    border-bottom: rgb(132, 159, 160);
+  .btn-success {
+    color: #fff;
+    background-color: #285fa7;
+    border-color: #03245f;
   }
